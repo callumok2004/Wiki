@@ -4,5 +4,7 @@
 
 ## Command Information
 
-* [Modules](command-information/modules.md)
+* [Modules](command-information/modules/README.md)
+  * [Core](command-information/modules/core.md)
+  * [Music](command-information/modules/music.md)
 

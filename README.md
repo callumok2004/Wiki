@@ -6,5 +6,5 @@ To invite this lovely bot all you have to do is go to [here](https://discordapp.
 
 ## Command Information
 
-If you would like any information on commands go the modules tab or [here](command-information/modules.md).
+If you would like any information on commands go the modules tab or [here](command-information/modules/).
 
